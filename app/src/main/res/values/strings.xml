@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">recyclersecond</string>
+    <string name="write_your_new_goal">Write your new goal</string>
+    <string name="add_a_goal">Add a goal</string>
 </resources>
